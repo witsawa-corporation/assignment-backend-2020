@@ -9,3 +9,16 @@
 ## How to change config
 
 set environment in `app/lib/env.ts` and fix config in `.env.[NODE_ENV]` such as `.env.production`
+
+## Assignment
+
+Please implement from the code with typescript
+
+In the page <http://localhost:3000/cars> show the following
+
+- table show each cars
+- group the cars by country and show number of brand in each country
+
+## Q & A
+
+If you have question, you can send question to email: apichan@witsawa.com
