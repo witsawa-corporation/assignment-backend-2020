@@ -19,6 +19,12 @@ In the page <http://localhost:3000/cars> show the following
 - table show each cars
 - group the cars by country and show number of brand in each country
 
+File that you should interest
+
+- /app/lib/getCars.ts => function get data ([axios](https://github.com/axios/axios))
+- /app/app.ts => route
+- /app/views/index.ejs => template that there is logic ([ejs](https://ejs.co/))
+
 ## Q & A
 
 If you have question, you can send question to email: apichan@witsawa.com
